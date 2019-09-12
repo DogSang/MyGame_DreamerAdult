@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class RoleBase : MonoBehaviour
 {
-    public RoleData pRoleData;
     public MoveCtrl pMoveCtrl;
 
     // Start is called before the first frame update
